@@ -1,0 +1,76 @@
+Volume directory $DirectoryVolume 254.254.254.253 
+  Body SysBody 01-JAN-1970 01:00:00.00
+  EndBody
+  Object System $System 1 14-NOV-2016 22:48:02.02
+    Body SysBody 14-NOV-2016 22:48:02.02
+      Attr SystemName = "pi"
+      Attr SystemGroup = "Common"
+    EndBody
+  EndObject
+  Object Build BuildConfig 11 14-NOV-2016 22:48:02.12
+    Body DevBody 14-NOV-2016 22:48:02.12
+    EndBody
+    Object pop BuildDirectory 12 14-NOV-2016 22:48:02.12
+      Body DevBody 14-NOV-2016 22:48:02.13
+        Attr Options = 1
+        Attr Directory = "$pwrp_pop"
+      EndBody
+      Object pwg BuildCopy 13 14-NOV-2016 22:48:02.13
+        Body DevBody 14-NOV-2016 22:48:02.14
+          Attr Source = "*.pwg"
+          Attr Target = "$pwrp_exe/,$pwrp_web/"
+        EndBody
+      EndObject
+    EndObject
+  EndObject
+  Object Sim999 BusConfig 4 14-NOV-2016 22:48:02.03
+    Body RtBody 14-NOV-2016 22:48:02.04
+      Attr BusNumber = 999
+    EndBody
+    Object ssab_pc NodeConfig 8 14-NOV-2016 22:48:02.08
+      Body RtBody 14-NOV-2016 22:48:02.10
+        Attr NodeName = "ssab-pc"
+        Attr OperatingSystem = 128
+        Attr BootNode = "ssab-pc"
+        Attr Address = "127.0.0.1"
+      EndBody
+      Object VolPi RootVolumeLoad 9 14-NOV-2016 22:48:02.11
+        Body RtBody 14-NOV-2016 22:48:02.08
+        EndBody
+      EndObject
+      Object Distribute Distribute 10 14-NOV-2016 22:48:02.08
+        Body DevBody 14-NOV-2016 22:48:02.11
+        EndBody
+      EndObject
+    EndObject
+  EndObject
+  Object Prd517 BusConfig 3 14-NOV-2016 22:48:02.03
+    Body RtBody 14-NOV-2016 22:48:02.03
+      Attr BusNumber = 517
+    EndBody
+    Object pi NodeConfig 5 14-NOV-2016 22:48:02.04
+      Body RtBody 14-NOV-2016 22:48:02.06
+        Attr NodeName = "pi"
+        Attr OperatingSystem = 128
+        Attr BootNode = "pi"
+        Attr Address = "192.168.1.5"
+      EndBody
+      Object VolPi RootVolumeLoad 6 14-NOV-2016 22:48:02.07
+        Body RtBody 14-NOV-2016 22:48:02.04
+        EndBody
+      EndObject
+      Object Distribute Distribute 7 14-NOV-2016 22:48:02.04
+        Body DevBody 14-NOV-2016 22:48:02.07
+        EndBody
+      EndObject
+    EndObject
+  EndObject
+  Object VolPi RootVolumeConfig 2 14-NOV-2016 22:48:02.03
+    Body RtBody 14-NOV-2016 22:48:02.03
+    EndBody
+  EndObject
+  Object CVolPi ClassVolumeConfig 14 14-NOV-2016 22:53:22.36
+    Body RtBody 14-NOV-2016 22:53:10.85
+    EndBody
+  EndObject
+EndVolume

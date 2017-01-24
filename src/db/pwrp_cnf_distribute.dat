@@ -1,0 +1,46 @@
+project pi
+node ssab-pc 128 999 0 ssab-pc -
+load ssab-pc
+appl ssab-pc W $pwrp_cnf/ssab-pc/pwr_user2.dat:$pwra_db/pwr_user2.dat $pwra_db/pwr_user2.dat
+appl ssab-pc W $pwrp_cnf/ld_appl_ssab-pc_999.txt $pwrp_load/
+appl ssab-pc W $pwrp_load/pwrp_alias.dat $pwrp_load/pwrp_alias.dat
+appl ssab-pc W $pwrp_inc/*.h
+appl ssab-pc W $pwrp_exe/*.pwg
+appl ssab-pc W $pwrp_cnf/ssab-pc/xtt_help.dat:$pwrp_cnf/xtt_help.dat $pwrp_load/xtt_help.dat
+appl ssab-pc W $pwrp_load/ssab-pc/b55/Rt_xtt:$pwrp_load/ssab-pc/Rt_xtt:$pwrp_load/Rt_xtt /home/b55/Rt_xtt
+appl ssab-pc S $pwrp_load/ssab-pc/pwrp/Rt_xtt /home/pwrp/Rt_xtt
+appl ssab-pc W $pwrp_load/ssab-pc/b55/xtt_setup.rtt_com:$pwrp_load/ssab-pc/xtt_setup.rtt_com:$pwrp_load/xtt_setup.rtt_com /home/b55/xtt_setup.rtt_com
+appl ssab-pc S $pwrp_load/ssab-pc/pwrp/xtt_setup.rtt_com /home/pwrp/xtt_setup.rtt_com
+appl ssab-pc W $pwrp_load/*.flw
+appl ssab-pc W $pwrp_cnf/ssab-pc/.rhosts:$pwra_db/.rhosts /home/pwrp/.rhosts
+appl ssab-pc W $pwrp_web/*.html
+appl ssab-pc S $pwrp_web/*.jar
+appl ssab-pc S $pwrp_web/*.gif
+appl ssab-pc S $pwrp_web/*.png
+appl ssab-pc S $pwrp_web/*.jpg
+appl ssab-pc S $pwrp_web/*.pdf
+appl ssab-pc S $pwrp_web/*.pwg
+node pi 1 517 0 pi arm_linux
+load pi
+appl pi W $pwrp_cnf/pi/pwr_user2.dat:$pwra_db/pwr_user2.dat $pwra_db/pwr_user2.dat
+appl pi W $pwrp_cnf/ld_appl_pi_517.txt $pwrp_load/
+appl pi W $pwrp_load/pwrp_alias.dat $pwrp_load/pwrp_alias.dat
+appl pi W $pwrp_inc/*.h
+appl pi W $pwrp_exe/*.pwg
+appl pi W $pwrp_cnf/pi/xtt_help.dat:$pwrp_cnf/xtt_help.dat $pwrp_load/xtt_help.dat
+appl pi W $pwrp_load/pi/b55/Rt_xtt:$pwrp_load/pi/Rt_xtt:$pwrp_load/Rt_xtt /home/b55/Rt_xtt
+appl pi S $pwrp_load/pi/pwrp/Rt_xtt /home/pwrp/Rt_xtt
+appl pi W $pwrp_load/pi/b55/xtt_setup.rtt_com:$pwrp_load/pi/xtt_setup.rtt_com:$pwrp_load/xtt_setup.rtt_com /home/b55/xtt_setup.rtt_com
+appl pi S $pwrp_load/pi/pwrp/xtt_setup.rtt_com /home/pwrp/xtt_setup.rtt_com
+appl pi W $pwrp_load/*.flw
+appl pi W $pwrp_cnf/pi/.rhosts:$pwra_db/.rhosts /home/pwrp/.rhosts
+appl pi W $pwrp_web/*.html
+appl pi S $pwrp_web/*.jar
+appl pi S $pwrp_web/*.gif
+appl pi S $pwrp_web/*.png
+appl pi S $pwrp_web/*.jpg
+appl pi S $pwrp_web/*.pdf
+appl pi S $pwrp_web/*.pwg
+builddir pop 1 ""
+buildcopy pop $pwrp_pop/*.pwg $pwrp_exe/
+buildcopy pop $pwrp_pop/*.pwg $pwrp_web/

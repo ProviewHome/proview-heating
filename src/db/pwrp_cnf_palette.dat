@@ -1,0 +1,13 @@
+palette PlcEditorPalette
+{
+  menu CVolPi
+  {
+  }
+}
+palette NavigatorPalette
+{
+  menu AllClasses
+  {
+    classvolume CVolPi
+  }
+}

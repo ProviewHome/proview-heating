@@ -1,0 +1,31 @@
+#
+#  File $pwrp_cnf/xtt_help.dat
+#
+#  Description
+#
+#  This file contains help topics that can be displayed in the Proview help browser.
+#  For more information see Designers Guide, chapter Helpfile.
+#
+#
+#  Revision history
+#  2016-11-14	pwrp	File created
+#
+<topic> index
+
+<image> pwr_logga.gif
+
+<h1>Welcome to pi
+<h2>Description
+Edit file $pwrp_cnf/xtt_help.dat to write this description.
+</topic>
+
+<include> $pwr_lang/profibus_xtthelp.dat
+<include> $pwr_lang/opc_xtthelp.dat
+<include> $pwr_lang/basecomponent_xtthelp.dat
+<include> $pwr_lang/othermanufacturer_xtthelp.dat
+<include> $pwr_lang/abb_xtthelp.dat
+<include> $pwr_lang/siemens_xtthelp.dat
+<include> $pwr_lang/remote_xtthelp.dat
+<include> $pwr_lang/nmps_xtthelp.dat
+<include> $pwr_lang/ssabox_xtthelp.dat
+

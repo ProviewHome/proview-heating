@@ -1,0 +1,368 @@
+1  14-NOV-2016 22:44:49.81 3306    WbLogin      pwrp        pwrp
+1  14-NOV-2016 22:48:02.17 3306    ConfigSave   pwrp        directory
+1  14-NOV-2016 22:49:02.45 3306    ConfigSave   pwrp        directory
+1  14-NOV-2016 22:52:06.09 3306    ConfigSave   pwrp        GlobalVolumeList
+1  14-NOV-2016 22:52:58.16 3407    WbLogin      pwrp        pwrp
+1  14-NOV-2016 22:53:51.12 3407    ConfigSave   pwrp        directory
+1  14-NOV-2016 23:00:03.76 3407    ConfigSave   pwrp        directory
+1  14-NOV-2016 23:02:09.89 3806    WbLogin      pwrp        pwrp
+1  14-NOV-2016 23:02:20.15 3806    ConfigSave   pwrp        VolPi
+1  14-NOV-2016 23:02:23.11 3806    ConfigSave   pwrp        VolPi
+1  14-NOV-2016 23:03:11.10 3806    ConfigSave   pwrp        VolPi
+ 2 14-NOV-2016 23:03:15.28 3806    DirectoryBuild  pwrp        pop
+ 2 14-NOV-2016 23:03:15.36 3806    VolumeBuild  pwrp        VolPi
+1  14-NOV-2016 23:03:15.36 3806    NodeBuild    pwrp        ssab_pc
+1  14-NOV-2016 23:13:27.89 5424    WbLogin      pwrp        pwrp
+1  14-NOV-2016 23:14:10.01 5437    WbLogin      pwrp        pwrp
+1  14-NOV-2016 23:18:26.33 5424    ConfigSave   pwrp        directory
+1  14-NOV-2016 23:18:38.48 5626    WbLogin      pwrp        pwrp
+1  14-NOV-2016 23:23:56.03 5626    ConfigSave   pwrp        VolPi
+1  14-NOV-2016 23:24:09.52 5626    PlcSave      pwrp        VolPi:O20-O21-W
+1  14-NOV-2016 23:24:13.39 5626    PlcBuild     pwrp        VolPi:O20-O21-W
+1  14-NOV-2016 23:24:21.33 5626    PlcSave      pwrp        VolPi:O20-O21-W
+1  14-NOV-2016 23:30:05.13 5851    WbLogin      pwrp        pwrp
+1  14-NOV-2016 23:31:43.45 5851    ConfigSave   pwrp        CVolPi
+1  14-NOV-2016 23:32:10.30 5920    WbLogin      pwrp        pwrp
+1  14-NOV-2016 23:32:15.78 5920    UpdateClasses  pwrp        VolPi
+1  14-NOV-2016 23:32:19.46 5920    ConfigSave   pwrp        VolPi
+1  14-NOV-2016 23:32:46.74 5938    WbLogin      pwrp        pwrp
+1  14-NOV-2016 23:33:02.43 5952    WbLogin      pwrp        pwrp
+1  14-NOV-2016 23:48:39.12 5952    ConfigSave   pwrp        VolPi
+1  14-NOV-2016 23:48:48.80 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  14-NOV-2016 23:48:49.14 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  14-NOV-2016 23:48:49.54 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  14-NOV-2016 23:48:49.90 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  14-NOV-2016 23:49:37.35 5952    PlcSave      pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  14-NOV-2016 23:49:39.03 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  14-NOV-2016 23:50:33.12 5952    ConfigSave   pwrp        VolPi
+ 2 14-NOV-2016 23:50:45.21 5952    DirectoryBuild  pwrp        pop
+ 2 14-NOV-2016 23:50:45.42 5952    VolumeBuild  pwrp        VolPi
+1  14-NOV-2016 23:51:54.98 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  14-NOV-2016 23:51:55.32 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  14-NOV-2016 23:51:55.69 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  14-NOV-2016 23:51:55.98 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  14-NOV-2016 23:51:56.28 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  14-NOV-2016 23:51:56.79 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  14-NOV-2016 23:51:57.26 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  14-NOV-2016 23:51:59.93 5952    ConfigSave   pwrp        VolPi
+ 2 14-NOV-2016 23:52:06.13 5952    DirectoryBuild  pwrp        pop
+ 2 14-NOV-2016 23:52:06.22 5952    VolumeBuild  pwrp        VolPi
+1  14-NOV-2016 23:52:06.57 5952    NodeBuild    pwrp        ssab_pc
+1  14-NOV-2016 23:56:40.25 5952    ConfigSave   pwrp        VolPi
+1  14-NOV-2016 23:56:56.13 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  14-NOV-2016 23:56:56.20 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  14-NOV-2016 23:56:56.33 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  14-NOV-2016 23:56:56.38 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  14-NOV-2016 23:56:56.43 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  14-NOV-2016 23:56:56.56 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  14-NOV-2016 23:56:56.68 5952    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 14-NOV-2016 23:57:12.78 5952    DirectoryBuild  pwrp        pop
+ 2 14-NOV-2016 23:57:12.88 5952    VolumeBuild  pwrp        VolPi
+1  14-NOV-2016 23:57:12.96 5952    NodeBuild    pwrp        pi
+1  14-NOV-2016 23:59:13.89 5952    CreatePackage  pwrp        pi "pwrp_pkg_pi_0001.tgz"
+1  14-NOV-2016 23:59:27.26 5952    CopyPackage  pwrp        pi "pwrp_pkg_pi_0001.tgz"
+1  15-NOV-2016 00:01:18.80 7048    WbLogin      pwrp        pwrp
+1  15-NOV-2016 00:02:13.84 7063    WbLogin      pwrp        pwrp
+1  15-NOV-2016 00:02:22.17 7063    UpdateClasses  pwrp        VolPi
+1  15-NOV-2016 00:02:27.86 7063    ConfigSave   pwrp        VolPi
+1  15-NOV-2016 00:02:39.85 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  15-NOV-2016 00:02:39.92 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  15-NOV-2016 00:02:40.06 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  15-NOV-2016 00:02:40.12 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  15-NOV-2016 00:02:40.17 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  15-NOV-2016 00:02:40.32 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  15-NOV-2016 00:02:40.46 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 15-NOV-2016 00:03:09.08 7063    DirectoryBuild  pwrp        pop
+ 2 15-NOV-2016 00:03:09.16 7063    VolumeBuild  pwrp        VolPi
+1  15-NOV-2016 00:03:09.19 7063    NodeBuild    pwrp        pi
+1  15-NOV-2016 00:03:26.21 7063    CreatePackage  pwrp        pi "pwrp_pkg_pi_0002.tgz"
+1  15-NOV-2016 00:03:40.52 7063    CopyPackage  pwrp        pi "pwrp_pkg_pi_0002.tgz"
+1  15-NOV-2016 00:04:37.04 7063    ConfigSave   pwrp        VolPi
+ 2 15-NOV-2016 00:04:44.86 7063    DirectoryBuild  pwrp        pop
+ 2 15-NOV-2016 00:05:17.45 7063    ConfigSave   pwrp        VolPi
+ 2 15-NOV-2016 00:05:49.08 7063    ConfigSave   pwrp        VolPi
+ 2 15-NOV-2016 00:06:10.89 7063    ConfigSave   pwrp        VolPi
+ 2 15-NOV-2016 00:06:16.99 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+ 2 15-NOV-2016 00:06:17.05 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+ 2 15-NOV-2016 00:06:17.18 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+ 2 15-NOV-2016 00:06:17.22 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+ 2 15-NOV-2016 00:06:17.27 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+ 2 15-NOV-2016 00:06:17.40 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+ 2 15-NOV-2016 00:06:17.56 7063    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 15-NOV-2016 00:06:19.84 7063    ConfigSave   pwrp        VolPi
+ 3 15-NOV-2016 00:06:24.22 7063    DirectoryBuild  pwrp        pop
+ 3 15-NOV-2016 00:06:24.29 7063    VolumeBuild  pwrp        VolPi
+ 2 15-NOV-2016 00:06:24.32 7063    NodeBuild    pwrp        pi
+1  15-NOV-2016 00:16:56.66 8125    WbLogin      pwrp        pwrp
+1  15-NOV-2016 00:17:03.47 8141    WbLogin      pwrp        pwrp
+1  15-NOV-2016 00:17:11.98 8141    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  15-NOV-2016 00:17:12.04 8141    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  15-NOV-2016 00:17:12.18 8141    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  15-NOV-2016 00:17:12.24 8141    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  15-NOV-2016 00:17:12.29 8141    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  15-NOV-2016 00:17:12.43 8141    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  15-NOV-2016 00:17:12.59 8141    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 15-NOV-2016 00:17:18.66 8141    DirectoryBuild  pwrp        pop
+ 2 15-NOV-2016 00:17:18.76 8141    VolumeBuild  pwrp        VolPi
+1  15-NOV-2016 00:17:18.79 8141    NodeBuild    pwrp        pi
+1  15-NOV-2016 00:22:41.96 8141    CreatePackage  pwrp        pi "pwrp_pkg_pi_0003.tgz"
+1  15-NOV-2016 00:22:42.30 8141    CopyPackage  pwrp        pi "pwrp_pkg_pi_0003.tgz"
+1  15-NOV-2016 00:23:17.51 8141    ConfigSave   pwrp        VolPi
+ 2 15-NOV-2016 00:23:35.05 8141    DirectoryBuild  pwrp        pop
+ 2 15-NOV-2016 00:23:35.13 8141    VolumeBuild  pwrp        VolPi
+1  15-NOV-2016 00:23:35.15 8141    NodeBuild    pwrp        pi
+1  15-NOV-2016 00:23:43.18 8141    CreatePackage  pwrp        pi "pwrp_pkg_pi_0004.tgz"
+1  15-NOV-2016 00:23:43.50 8141    CopyPackage  pwrp        pi "pwrp_pkg_pi_0004.tgz"
+1  15-NOV-2016 00:25:01.67 8814    WbLogin      pwrp        pwrp
+1  15-NOV-2016 00:25:06.16 8814    ConfigSave   pwrp        directory
+1  15-NOV-2016 00:25:13.48 8814    ConfigSave   pwrp        CVolPi
+1  15-NOV-2016 00:25:23.68 8894    WbLogin      pwrp        pwrp
+1  15-NOV-2016 00:25:41.94 8894    UpdateClasses  pwrp        VolPi
+1  15-NOV-2016 00:25:49.67 8894    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  15-NOV-2016 00:25:49.74 8894    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  15-NOV-2016 00:25:49.86 8894    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  15-NOV-2016 00:25:49.91 8894    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  15-NOV-2016 00:25:49.97 8894    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  15-NOV-2016 00:25:50.14 8894    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  15-NOV-2016 00:25:50.27 8894    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  15-NOV-2016 00:25:54.92 8894    ConfigSave   pwrp        VolPi
+ 2 15-NOV-2016 00:26:00.05 8894    DirectoryBuild  pwrp        pop
+ 2 15-NOV-2016 00:26:00.15 8894    VolumeBuild  pwrp        VolPi
+1  15-NOV-2016 00:26:00.18 8894    NodeBuild    pwrp        pi
+1  15-NOV-2016 00:26:08.15 8894    CreatePackage  pwrp        pi "pwrp_pkg_pi_0005.tgz"
+1  15-NOV-2016 00:26:20.36 8894    CopyPackage  pwrp        pi "pwrp_pkg_pi_0005.tgz"
+1  15-NOV-2016 00:28:11.74 2393    WbLogin      pwrp        pwrp
+1  15-NOV-2016 00:28:15.20 2393    ConfigSave   pwrp        VolPi
+ 2 15-NOV-2016 00:28:20.05 2393    DirectoryBuild  pwrp        pop
+ 2 15-NOV-2016 00:28:20.14 2393    VolumeBuild  pwrp        VolPi
+1  15-NOV-2016 00:28:20.17 2393    NodeBuild    pwrp        pi
+1  15-NOV-2016 18:08:08.88 3698    WbLogin      pwrp        pwrp
+1  15-NOV-2016 18:08:24.42 3698    ConfigSave   pwrp        directory
+1  15-NOV-2016 18:08:41.97 3741    WbLogin      pwrp        pwrp
+1  15-NOV-2016 18:08:57.81 3741    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  15-NOV-2016 18:08:58.33 3741    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  15-NOV-2016 18:08:59.06 3741    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  15-NOV-2016 18:08:59.63 3741    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  15-NOV-2016 18:09:00.12 3741    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  15-NOV-2016 18:09:00.87 3741    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  15-NOV-2016 18:09:01.65 3741    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 15-NOV-2016 18:10:22.30 3741    DirectoryBuild  pwrp        pop
+ 2 15-NOV-2016 18:10:22.44 3741    VolumeBuild  pwrp        VolPi
+1  15-NOV-2016 18:10:23.01 3741    NodeBuild    pwrp        pi
+1  15-NOV-2016 18:10:40.55 3741    CreatePackage  pwrp        pi "pwrp_pkg_pi_0006.tgz"
+1  15-NOV-2016 18:10:42.48 3741    CopyPackage  pwrp        pi "pwrp_pkg_pi_0006.tgz"
+1  15-NOV-2016 18:12:22.51 3741    CreatePackage  pwrp        pi "pwrp_pkg_pi_0007.tgz"
+1  15-NOV-2016 18:12:24.49 3741    CopyPackage  pwrp        pi "pwrp_pkg_pi_0007.tgz"
+1  15-NOV-2016 19:01:13.69 3016    WbLogin      pwrp        pwrp
+1  15-NOV-2016 19:05:30.63 3037    WbLogin      pwrp        pwrp
+1  15-NOV-2016 19:05:36.23 3037    CreatePackage  pwrp        pi "pwrp_pkg_pi_0008.tgz"
+1  15-NOV-2016 19:05:53.10 3037    CopyPackage  pwrp        pi "pwrp_pkg_pi_0008.tgz"
+1  15-NOV-2016 20:29:29.66 3720    WbLogin      pwrp        pwrp
+1  15-NOV-2016 20:34:10.05 3720    PlcSave      pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  15-NOV-2016 20:34:13.04 3720    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  15-NOV-2016 20:36:42.17 3720    ConfigSave   pwrp        VolPi
+ 2 15-NOV-2016 20:36:47.56 3720    DirectoryBuild  pwrp        pop
+ 2 15-NOV-2016 20:36:47.74 3720    VolumeBuild  pwrp        VolPi
+1  15-NOV-2016 20:36:48.33 3720    NodeBuild    pwrp        pi
+1  15-NOV-2016 20:36:57.75 3720    CreatePackage  pwrp        pi "pwrp_pkg_pi_0009.tgz"
+1  15-NOV-2016 20:37:10.43 3720    CopyPackage  pwrp        pi "pwrp_pkg_pi_0009.tgz"
+1  21-NOV-2016 23:56:58.02 6635    WbLogin      pwrp        pwrp
+1  21-NOV-2016 23:57:09.90 6648    WbLogin      pwrp        pwrp
+1  23-NOV-2016 00:06:55.07 9480    WbLogin      pwrp        pwrp
+1  23-NOV-2016 06:56:16.67 10043   WbLogin      pwrp        pwrp
+1  17-DEC-2016 17:36:46.74 2760    WbLogin      pwrp        pwrp
+1  24-DEC-2016 09:45:33.97 8308    WbLogin      pwrp        pwrp
+1  24-DEC-2016 09:49:25.80 8308    ConfigSave   pwrp        VolPi
+1  24-DEC-2016 10:04:41.44 8308    PlcSave      pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  24-DEC-2016 10:04:46.34 8308    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  24-DEC-2016 10:07:50.38 8308    PlcSave      pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  24-DEC-2016 10:07:56.65 8308    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 24-DEC-2016 10:08:07.36 8308    DirectoryBuild  pwrp        pop
+ 2 24-DEC-2016 10:08:07.52 8308    VolumeBuild  pwrp        VolPi
+1  24-DEC-2016 10:08:08.07 8308    NodeBuild    pwrp        pi
+1  24-DEC-2016 10:08:13.61 8308    CreatePackage  pwrp        pi "pwrp_pkg_pi_0010.tgz"
+1  24-DEC-2016 10:08:31.17 8308    CopyPackage  pwrp        pi "pwrp_pkg_pi_0010.tgz"
+1  28-DEC-2016 20:42:41.95 3271    WbLogin      pwrp        pwrp
+1  28-DEC-2016 21:03:45.35 3271    ConfigSave   pwrp        VolPi
+1  28-DEC-2016 21:09:09.37 3271    PlcSave      pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  28-DEC-2016 21:12:31.26 3271    ConfigSave   pwrp        VolPi
+1  28-DEC-2016 21:40:52.64 3271    PlcSave      pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  28-DEC-2016 21:41:04.88 3271    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 28-DEC-2016 21:52:27.83 3271    DirectoryBuild  pwrp        pop
+ 2 28-DEC-2016 21:52:28.05 3271    VolumeBuild  pwrp        VolPi
+1  28-DEC-2016 21:52:28.63 3271    NodeBuild    pwrp        pi
+1  28-DEC-2016 21:52:43.54 3271    CreatePackage  pwrp        pi "pwrp_pkg_pi_0011.tgz"
+1  28-DEC-2016 21:53:07.22 3271    CopyPackage  pwrp        pi "pwrp_pkg_pi_0011.tgz"
+1  28-DEC-2016 22:04:58.67 3271    PlcSave      pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  28-DEC-2016 22:05:05.66 3271    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  28-DEC-2016 22:11:40.67 3271    ConfigSave   pwrp        VolPi
+1  28-DEC-2016 22:17:14.04 3271    PlcSave      pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  28-DEC-2016 22:17:21.41 3271    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+ 2 28-DEC-2016 22:17:36.51 3271    DirectoryBuild  pwrp        pop
+ 2 28-DEC-2016 22:17:36.69 3271    VolumeBuild  pwrp        VolPi
+1  28-DEC-2016 22:17:37.14 3271    NodeBuild    pwrp        pi
+1  28-DEC-2016 22:17:41.03 3271    CreatePackage  pwrp        pi "pwrp_pkg_pi_0012.tgz"
+1  28-DEC-2016 22:17:54.72 3271    CopyPackage  pwrp        pi "pwrp_pkg_pi_0012.tgz"
+ 2 02-JAN-2017 19:35:06.49 3271    DirectoryBuild  pwrp        pop
+1  02-JAN-2017 19:35:23.05 3271    CreatePackage  pwrp        pi "pwrp_pkg_pi_0013.tgz"
+1  02-JAN-2017 19:35:39.33 3271    CopyPackage  pwrp        pi "pwrp_pkg_pi_0013.tgz"
+ 2 02-JAN-2017 19:37:16.97 3271    DirectoryBuild  pwrp        pop
+1  02-JAN-2017 19:37:34.75 3271    CreatePackage  pwrp        pi "pwrp_pkg_pi_0014.tgz"
+1  02-JAN-2017 19:37:52.03 3271    CopyPackage  pwrp        pi "pwrp_pkg_pi_0014.tgz"
+ 2 02-JAN-2017 19:41:02.71 3271    DirectoryBuild  pwrp        pop
+1  02-JAN-2017 19:41:15.88 3271    CreatePackage  pwrp        pi "pwrp_pkg_pi_0015.tgz"
+1  02-JAN-2017 19:41:30.73 3271    CopyPackage  pwrp        pi "pwrp_pkg_pi_0015.tgz"
+ 2 02-JAN-2017 19:45:36.39 3271    DirectoryBuild  pwrp        pop
+ 2 02-JAN-2017 19:45:41.97 3271    DirectoryBuild  pwrp        pop
+ 2 02-JAN-2017 19:46:23.64 3271    DirectoryBuild  pwrp        pop
+ 2 02-JAN-2017 19:46:29.50 3271    DirectoryBuild  pwrp        pop
+ 2 02-JAN-2017 19:47:05.43 3271    DirectoryBuild  pwrp        pop
+1  02-JAN-2017 19:47:17.38 3271    CreatePackage  pwrp        pi "pwrp_pkg_pi_0016.tgz"
+1  02-JAN-2017 19:47:32.53 3271    CopyPackage  pwrp        pi "pwrp_pkg_pi_0016.tgz"
+ 2 02-JAN-2017 19:52:09.09 3271    DirectoryBuild  pwrp        pop
+1  02-JAN-2017 19:52:14.53 3271    CreatePackage  pwrp        pi "pwrp_pkg_pi_0017.tgz"
+1  02-JAN-2017 19:52:31.53 3271    CopyPackage  pwrp        pi "pwrp_pkg_pi_0017.tgz"
+ 2 02-JAN-2017 20:01:36.84 3271    DirectoryBuild  pwrp        pop
+1  02-JAN-2017 20:01:43.32 3271    CreatePackage  pwrp        pi "pwrp_pkg_pi_0018.tgz"
+1  02-JAN-2017 20:02:01.33 3271    CopyPackage  pwrp        pi "pwrp_pkg_pi_0018.tgz"
+1  02-JAN-2017 20:24:24.00 3271    PlcSave      pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  02-JAN-2017 20:25:27.05 3271    PlcSave      pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  02-JAN-2017 20:25:35.07 3271    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  02-JAN-2017 20:25:43.90 3271    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+ 2 03-JAN-2017 23:32:25.03 3271    DirectoryBuild  pwrp        pop
+ 2 03-JAN-2017 23:32:25.25 3271    VolumeBuild  pwrp        VolPi
+1  03-JAN-2017 23:32:25.69 3271    NodeBuild    pwrp        pi
+1  03-JAN-2017 23:32:30.66 3271    CreatePackage  pwrp        pi "pwrp_pkg_pi_0019.tgz"
+1  03-JAN-2017 23:32:50.19 3271    CopyPackage  pwrp        pi "pwrp_pkg_pi_0019.tgz"
+1  05-JAN-2017 19:21:03.43 5503    WbLogin      pwrp        pwrp
+1  05-JAN-2017 19:28:49.93 5503    PlcSave      pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  05-JAN-2017 19:29:07.12 5503    PlcSave      pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  05-JAN-2017 19:29:08.15 5503    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 05-JAN-2017 19:29:27.28 5503    DirectoryBuild  pwrp        pop
+ 2 05-JAN-2017 19:29:27.46 5503    VolumeBuild  pwrp        VolPi
+1  05-JAN-2017 19:29:27.99 5503    NodeBuild    pwrp        pi
+1  05-JAN-2017 19:29:48.99 5503    CreatePackage  pwrp        pi "pwrp_pkg_pi_0020.tgz"
+1  05-JAN-2017 19:30:06.59 5503    CopyPackage  pwrp        pi "pwrp_pkg_pi_0020.tgz"
+1  09-JAN-2017 22:06:32.97 7955    WbLogin      pwrp        pwrp
+1  11-JAN-2017 22:19:03.14 6871    WbLogin      pwrp        pwrp
+1  11-JAN-2017 22:45:29.42 6924    WbLogin      pwrp        pwrp
+1  11-JAN-2017 22:46:37.50 6940    WbLogin      pwrp        pwrp
+1  11-JAN-2017 22:47:28.56 6940    ConfigSave   pwrp        VolPi
+1  11-JAN-2017 22:51:01.56 6940    ConfigSave   pwrp        VolPi
+1  11-JAN-2017 22:51:11.98 6940    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  11-JAN-2017 22:51:12.33 6940    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  11-JAN-2017 22:51:12.76 6940    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  11-JAN-2017 22:51:13.11 6940    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  11-JAN-2017 22:51:13.39 6940    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  11-JAN-2017 22:51:13.93 6940    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  11-JAN-2017 22:51:14.46 6940    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 11-JAN-2017 22:51:25.00 6940    DirectoryBuild  pwrp        pop
+ 2 11-JAN-2017 22:51:25.10 6940    VolumeBuild  pwrp        VolPi
+1  11-JAN-2017 22:51:25.52 6940    NodeBuild    pwrp        ssab_pc
+1  12-JAN-2017 21:35:14.09 6940    ConfigSave   pwrp        VolPi
+1  12-JAN-2017 21:37:30.53 6924    ConfigSave   pwrp        CVolPi
+1  12-JAN-2017 21:40:37.88 6924    ConfigSave   pwrp        CVolPi
+1  12-JAN-2017 21:42:57.77 6924    ConfigSave   pwrp        CVolPi
+1  12-JAN-2017 21:43:15.78 9377    WbLogin      pwrp        pwrp
+1  12-JAN-2017 21:43:22.35 9377    UpdateClasses  pwrp        VolPi
+1  12-JAN-2017 21:44:04.21 9377    ConfigSave   pwrp        VolPi
+1  12-JAN-2017 21:51:38.32 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  12-JAN-2017 21:51:38.67 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  12-JAN-2017 21:51:39.12 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  12-JAN-2017 21:51:39.39 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  12-JAN-2017 21:51:39.74 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  12-JAN-2017 21:51:40.28 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  12-JAN-2017 21:51:40.84 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+1  12-JAN-2017 21:51:42.91 9377    ConfigSave   pwrp        VolPi
+ 2 12-JAN-2017 21:51:49.77 9377    DirectoryBuild  pwrp        pop
+ 2 12-JAN-2017 21:51:49.91 9377    VolumeBuild  pwrp        VolPi
+1  12-JAN-2017 21:51:50.22 9377    NodeBuild    pwrp        ssab_pc
+1  12-JAN-2017 22:03:32.21 9377    PlcSave      pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  12-JAN-2017 22:03:36.53 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+ 2 12-JAN-2017 22:09:29.28 9377    DirectoryBuild  pwrp        pop
+ 2 12-JAN-2017 22:09:29.38 9377    VolumeBuild  pwrp        VolPi
+1  12-JAN-2017 22:09:29.68 9377    NodeBuild    pwrp        ssab_pc
+ 2 12-JAN-2017 22:22:07.90 9377    DirectoryBuild  pwrp        pop
+1  12-JAN-2017 22:25:40.76 9377    ConfigSave   pwrp        VolPi
+ 2 12-JAN-2017 22:25:56.97 9377    DirectoryBuild  pwrp        pop
+ 2 12-JAN-2017 22:25:57.10 9377    VolumeBuild  pwrp        VolPi
+1  12-JAN-2017 22:25:57.40 9377    NodeBuild    pwrp        ssab_pc
+1  12-JAN-2017 22:29:45.45 9377    ConfigSave   pwrp        VolPi
+1  12-JAN-2017 22:30:00.47 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-RASP-Supervision-W
+1  12-JAN-2017 22:30:00.94 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-ONEWIRE-Various-W
+1  12-JAN-2017 22:30:01.66 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HMI-FixAndTrix-W
+1  12-JAN-2017 22:30:02.19 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-PANEL-PanelControl-W
+1  12-JAN-2017 22:30:02.68 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-START-StartStopSup-W
+1  12-JAN-2017 22:30:03.45 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-LOG-TrendAndLog-W
+1  12-JAN-2017 22:30:04.42 9377    PlcBuild     pwrp        VolPi:Pi-SOFTEL-HeatingControl-W
+ 2 12-JAN-2017 22:30:25.83 9377    DirectoryBuild  pwrp        pop
+ 2 12-JAN-2017 22:30:26.00 9377    VolumeBuild  pwrp        VolPi
+1  12-JAN-2017 22:30:26.53 9377    NodeBuild    pwrp        pi
+1  12-JAN-2017 22:30:34.42 9377    CreatePackage  pwrp        pi "pwrp_pkg_pi_0021.tgz"
+1  12-JAN-2017 22:30:50.87 9377    CopyPackage  pwrp        pi "pwrp_pkg_pi_0021.tgz"
+1  14-JAN-2017 23:15:22.45 9377    ConfigSave   pwrp        VolPi
+1  14-JAN-2017 23:18:22.12 6924    ConfigSave   pwrp        directory
+ 2 14-JAN-2017 23:28:00.83 9377    DirectoryBuild  pwrp        pop
+ 2 14-JAN-2017 23:28:00.99 9377    VolumeBuild  pwrp        VolPi
+1  14-JAN-2017 23:28:01.43 9377    NodeBuild    pwrp        pi
+1  14-JAN-2017 23:28:22.99 9377    CreatePackage  pwrp        pi "pwrp_pkg_pi_0022.tgz"
+1  14-JAN-2017 23:28:42.30 9377    CopyPackage  pwrp        pi "pwrp_pkg_pi_0022.tgz"
+1  14-JAN-2017 23:35:43.20 6924    ConfigSave   pwrp        directory
+1  18-JAN-2017 19:23:48.14 27563   WbLogin      pwrp        pwrp
+1  18-JAN-2017 19:25:06.13 27563   ConfigSave   pwrp        VolPi
+1  18-JAN-2017 20:48:31.80 27563   ConfigSave   pwrp        VolPi
+1  21-JAN-2017 16:35:00.27 10676   WbLogin      pwrp        pwrp
+1  21-JAN-2017 16:35:31.88 10676   ConfigSave   pwrp        VolPi
+1  21-JAN-2017 16:35:42.06 10676   GeBuild      pwrp        pi_overview
+1  21-JAN-2017 16:35:49.69 10676   ConfigSave   pwrp        VolPi
+1  21-JAN-2017 16:36:02.06 10676   GeBuild      pwrp        pi_overview
+1  21-JAN-2017 16:36:12.19 10676   ConfigSave   pwrp        VolPi
+ 2 21-JAN-2017 16:36:20.35 10676   DirectoryBuild  pwrp        pop
+ 2 21-JAN-2017 16:36:20.54 10676   VolumeBuild  pwrp        VolPi
+1  21-JAN-2017 16:36:21.32 10676   NodeBuild    pwrp        pi
+1  21-JAN-2017 16:40:10.89 10676   CreatePackage  pwrp        pi "pwrp_pkg_pi_0023.tgz"
+1  21-JAN-2017 16:40:42.09 10676   CopyPackage  pwrp        pi "pwrp_pkg_pi_0023.tgz"
+1  22-JAN-2017 16:11:14.82 10676   ConfigSave   pwrp        UserDatabase
+1  22-JAN-2017 16:12:15.00 18150   WbLogin      pwrp        pwrp
+1  22-JAN-2017 16:13:23.94 18150   ConfigSave   pwrp        VolPi
+1  22-JAN-2017 16:15:33.36 18150   ConfigSave   pwrp        UserDatabase
+1  22-JAN-2017 16:19:48.19 18187   WbLogin      pwrp        pwrp
+1  22-JAN-2017 16:20:08.18 18187   ConfigSave   pwrp        VolPi
+ 2 22-JAN-2017 16:21:20.61 18187   DirectoryBuild  pwrp        pop
+ 2 22-JAN-2017 16:21:24.14 18187   VolumeBuild  pwrp        VolPi
+1  22-JAN-2017 16:21:24.57 18187   NodeBuild    pwrp        pi
+1  22-JAN-2017 16:21:42.20 18187   CreatePackage  pwrp        pi "pwrp_pkg_pi_0024.tgz"
+1  22-JAN-2017 16:22:25.63 18187   CopyPackage  pwrp        pi "pwrp_pkg_pi_0024.tgz"
+1  22-JAN-2017 16:37:10.48 18634   WbLogin      pwrp        pwrp
+1  22-JAN-2017 16:38:28.47 18648   WbLogin      pwrp        pwrp
+1  22-JAN-2017 16:55:52.20 18648   ConfigSave   pwrp        VolPi
+ 2 22-JAN-2017 16:56:03.19 18648   DirectoryBuild  pwrp        pop
+ 2 22-JAN-2017 16:56:03.31 18648   VolumeBuild  pwrp        VolPi
+1  22-JAN-2017 16:56:03.72 18648   NodeBuild    pwrp        pi
+1  22-JAN-2017 16:56:36.22 18648   ConfigSave   pwrp        VolPi
+ 2 22-JAN-2017 16:56:47.51 18648   DirectoryBuild  pwrp        pop
+ 2 22-JAN-2017 16:56:47.66 18648   VolumeBuild  pwrp        VolPi
+1  22-JAN-2017 16:56:48.11 18648   NodeBuild    pwrp        pi
+1  22-JAN-2017 16:56:56.33 18648   CreatePackage  pwrp        pi "pwrp_pkg_pi_0025.tgz"
+1  22-JAN-2017 16:56:58.33 18648   CopyPackage  pwrp        pi "pwrp_pkg_pi_0025.tgz"
+1  22-JAN-2017 16:57:20.61 18648   CreatePackage  pwrp        pi "pwrp_pkg_pi_0026.tgz"
+1  22-JAN-2017 16:57:22.53 18648   CopyPackage  pwrp        pi "pwrp_pkg_pi_0026.tgz"
+1  22-JAN-2017 16:59:10.68 19194   WbLogin      pwrp        pwrp
+1  22-JAN-2017 16:59:41.48 19194   ConfigSave   pwrp        VolPi
+ 2 22-JAN-2017 16:59:48.27 19194   DirectoryBuild  pwrp        pop
+ 2 22-JAN-2017 16:59:48.39 19194   VolumeBuild  pwrp        VolPi
+1  22-JAN-2017 16:59:48.81 19194   NodeBuild    pwrp        pi
+1  22-JAN-2017 17:00:10.22 19194   CreatePackage  pwrp        pi "pwrp_pkg_pi_0027.tgz"
+1  22-JAN-2017 17:00:26.93 19194   CopyPackage  pwrp        pi "pwrp_pkg_pi_0027.tgz"
+1  22-JAN-2017 17:24:58.31 19194   ConfigSave   pwrp        VolPi
+ 2 22-JAN-2017 17:25:05.69 19194   DirectoryBuild  pwrp        pop
+ 2 22-JAN-2017 17:25:05.84 19194   VolumeBuild  pwrp        VolPi
+1  22-JAN-2017 17:25:06.30 19194   NodeBuild    pwrp        pi
+1  22-JAN-2017 17:25:12.25 19194   CreatePackage  pwrp        pi "pwrp_pkg_pi_0028.tgz"
+1  22-JAN-2017 17:25:29.13 19194   CopyPackage  pwrp        pi "pwrp_pkg_pi_0028.tgz"
+1  22-JAN-2017 17:25:49.99 20105   WbLogin      pwrp        pwrp
+1  22-JAN-2017 17:27:37.23 20105   CreatePackage  pwrp        pi "pwrp_pkg_pi_0029.tgz"
+1  22-JAN-2017 17:27:53.93 20105   CopyPackage  pwrp        pi "pwrp_pkg_pi_0029.tgz"
+ 2 22-JAN-2017 19:53:57.41 20105   DirectoryBuild  pwrp        pop
+1  22-JAN-2017 19:54:06.47 20105   CreatePackage  pwrp        pi "pwrp_pkg_pi_0030.tgz"
+1  22-JAN-2017 19:54:22.35 20105   CopyPackage  pwrp        pi "pwrp_pkg_pi_0030.tgz"

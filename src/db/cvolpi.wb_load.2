@@ -1,0 +1,150 @@
+Volume CVolPi $ClassVolume 0.0.2.1 
+  Body SysBody 01-JAN-1970 01:00:00.00
+    Attr NextOix = "_X4"
+    Attr NextCix = "_X3"
+  EndBody
+  Object Class $ClassHier 2 14-NOV-2016 23:31:36.55
+    Object C2_C2_CPi_Week_log $ClassDef 1 14-NOV-2016 23:31:18.61
+      Body SysBody 14-NOV-2016 23:31:18.61
+        Attr Editor = 0
+        Attr Method = 0
+        Attr Flags = 16
+      EndBody
+      Object RtBody $ObjBodyDef 1 14-NOV-2016 23:31:18.61
+        Body SysBody 14-NOV-2016 23:31:18.61
+          Attr StructName = "CPi_Week_log"
+          Attr NextAix = "_X19"
+        EndBody
+        Object AveTempOutside $Attribute 13 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "AveTempOutside"
+            Attr Size = 28
+            Attr Flags = 2
+            Attr Elements = 7
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object AveTempInZon1 $Attribute 14 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "AveTempInZon1"
+            Attr Size = 28
+            Attr Flags = 2
+            Attr Elements = 7
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object AveTempInZon2 $Attribute 15 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "AveTempInZon2"
+            Attr Size = 28
+            Attr Flags = 2
+            Attr Elements = 7
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object AveTempInZon3 $Attribute 16 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "AveTempInZon3"
+            Attr Size = 28
+            Attr Flags = 2
+            Attr Elements = 7
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object Energy_kWh $Attribute 17 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "Energy_kWh"
+            Attr Size = 28
+            Attr Flags = 2
+            Attr Elements = 7
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object Day $Attribute 18 12-JAN-2017 21:37:13.89
+          Body SysBody 12-JAN-2017 21:37:17.65
+            Attr PgmName = "Day"
+            Attr Size = 28
+            Attr Flags = 34
+            Attr Elements = 7
+            Attr TypeRef = "pwrs:Type-$Int32"
+          EndBody
+        EndObject
+      EndObject
+      Object Template C2_C2_CPi_Week_log 2147975168 14-NOV-2016 23:31:18.61
+        Body RtBody 01-JAN-1970 01:00:00.00
+        EndBody
+      EndObject
+    EndObject
+    Object C3_C3_CPi_Day_log $ClassDef 2 14-NOV-2016 23:31:18.61
+      Body SysBody 14-NOV-2016 23:31:18.61
+        Attr Editor = 0
+        Attr Method = 0
+        Attr Flags = 16
+      EndBody
+      Object RtBody $ObjBodyDef 1 14-NOV-2016 23:31:18.61
+        Body SysBody 14-NOV-2016 23:31:18.61
+          Attr StructName = "CPi_Day_log"
+          Attr NextAix = "_X24"
+        EndBody
+        Object TempOutside $Attribute 18 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "TempOutside"
+            Attr Size = 96
+            Attr Flags = 2
+            Attr Elements = 24
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object TempInZon1 $Attribute 19 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "TempInZon1"
+            Attr Size = 96
+            Attr Flags = 2
+            Attr Elements = 24
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object TempInZon2 $Attribute 20 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "TempInZon2"
+            Attr Size = 96
+            Attr Flags = 2
+            Attr Elements = 24
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object TempInZon3 $Attribute 21 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "TempInZon3"
+            Attr Size = 96
+            Attr Flags = 2
+            Attr Elements = 24
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object Energy_kWh $Attribute 22 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "Energy_kWh"
+            Attr Size = 96
+            Attr Flags = 2
+            Attr Elements = 24
+            Attr TypeRef = "pwrs:Type-$Float32"
+          EndBody
+        EndObject
+        Object Hour $Attribute 23 14-NOV-2016 23:31:18.61
+          Body SysBody 14-NOV-2016 23:31:18.61
+            Attr PgmName = "Hour"
+            Attr Size = 96
+            Attr Flags = 34
+            Attr Elements = 24
+            Attr TypeRef = "pwrs:Type-$Int32"
+          EndBody
+        EndObject
+      EndObject
+      Object Template C3_C3_CPi_Day_log 2148237312 14-NOV-2016 23:31:18.61
+        Body RtBody 01-JAN-1970 01:00:00.00
+        EndBody
+      EndObject
+    EndObject
+  EndObject
+EndVolume
